@@ -1,0 +1,22 @@
+{
+  "name": "irecruiter-chatbot",
+  "version": "1.0.0",
+  "description": "create chatbot application to automate interviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SasinduDilshara/iRecruiter-chatbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SasinduDilshara/iRecruiter-chatbot/issues"
+  },
+  "homepage": "https://github.com/SasinduDilshara/iRecruiter-chatbot#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
